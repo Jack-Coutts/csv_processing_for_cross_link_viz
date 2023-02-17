@@ -37,7 +37,7 @@ def new_list(nested_list):  # Retain relevant columns, convert to int, subtract 
 
     output_list = []  # Initiate new list
     for row in nested_list:  # Iterate over each row
-        output_list.append([f'{int(row[1])-24}|A|{int(row[4])-24}|A|'])  # Create each of the output rows
+        output_list.append([f'{int(row[1])}|A|{int(row[4])}|A|'])  # Create each of the output rows
     return output_list
 
 
