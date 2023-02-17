@@ -1,8 +1,6 @@
 import csv
 import argparse
 
-'''Order of csv file must always be the same - Sequence positions must be in columns 2 and 5.'''
-
 
 def initiate_parser():
 
