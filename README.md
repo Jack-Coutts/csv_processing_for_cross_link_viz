@@ -1,6 +1,6 @@
 # Usage Instructions
 
-Download the python script called cross_link_csv.py from this repository.
+Download the python script called `cross_link_csv.p`y from this repository.
 
 When using the Command Prompt (Windows) or Terminal (Mac) type the dir (Windows) or ls (Mac) 
 command to check what files are in the current folder/directory. The cd command followed by a directory/folder name 
